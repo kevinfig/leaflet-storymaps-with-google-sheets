@@ -98,8 +98,8 @@ body {
 .chapter-header {
   display: block;
   text-align: center;
-  font-size: 1.2em;
-  padding: 0 5px;
+  font-size: 2em;
+  padding: 0 10px;
   background-color: #97C8EB;
   font-family: 'Prata', serif;
 }
